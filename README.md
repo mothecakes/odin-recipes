@@ -1,0 +1,1 @@
+This website will contain links to various different recipes. The goal of this website is to practice my knowledge on HTML.
